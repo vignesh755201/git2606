@@ -1,0 +1,7 @@
+1st
+a=15
+b=13
+a=b
+a=temp
+temp=b
+print(a,b)
